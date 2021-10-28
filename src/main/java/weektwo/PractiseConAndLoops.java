@@ -34,13 +34,7 @@ public class PractiseConAndLoops {
 		
 		for(int i=1;i<=5;) {System.out.println("how r u");
 			}
-		
-		/*while(a>5) { System.out.println("it is while loop");
-		}a--;
-		
-		do{System.out.println("it is do while loop");a--;
-		}while(false);
-		*/
+	
 		
 		
 		
