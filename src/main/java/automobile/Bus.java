@@ -1,7 +1,5 @@
 package automobile;
 
-import weekthree.staticandnonstatic.SampleB;
-
 public class Bus {
 	
 	public static void steering() {
@@ -12,6 +10,7 @@ public class Bus {
 	protected static String cluthPlate() {
 		return null;
 	}
+	@SuppressWarnings("unused")
 	private void suspension() {
 	steering();
 	
